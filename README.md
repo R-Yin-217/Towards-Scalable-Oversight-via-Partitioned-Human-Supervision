@@ -1,7 +1,7 @@
-# Scalable Oversight via Partitioned Human Supervision
+# Towards Scalable Oversight via Partitioned Human Supervision
 This repository contains the official implementation of:
 
-**"Scalable Oversight via Partitioned Human Supervision"**  
+**"Towards Scalable Oversight via Partitioned Human Supervision"**  
 📄 [arXiv:2510.22500](https://arxiv.org/abs/2510.22500)
 
 ---
